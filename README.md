@@ -1,6 +1,6 @@
 # ATS-EVAL
 
-This repository contains the code for our upcoming TACL paper: Do Text Simplification Systems Preserve Meaning? A Human Evaluation via Reading Comprehension.
+This repository contains the code for our upcoming TACL paper: [Do Text Simplification Systems Preserve Meaning? A Human Evaluation via Reading Comprehension](https://arxiv.org/abs/2312.10126).
 
 ## Abstract
 
@@ -12,4 +12,9 @@ All the collected annotations are released in the file [all-ann-final-model-pape
 
 ## Citation
 
-Coming soon!
+@article{agrawal2023text,
+  title={Do Text Simplification Systems Preserve Meaning? A Human Evaluation via Reading Comprehension},
+  author={Agrawal, Sweta and Carpuat, Marine},
+  journal={arXiv preprint arXiv:2312.10126},
+  year={2023}
+}
