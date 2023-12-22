@@ -11,10 +11,11 @@ Automatic text simplification (TS) aims to automate the process of rewriting tex
 All the collected annotations are released in the file [all-ann-final-model-paper.csv](https://github.com/sweta20/ATS-EVAL/blob/main/all-ann-final-model-paper.csv) and the analysis presented in the paper can be reproduced via the [shared colab](https://colab.research.google.com/drive/1EpnOiQACaHyBBLIJSu2kWtrAVtPXFpk3?usp=sharing) or the [notebook](https://github.com/sweta20/ATS-EVAL/blob/main/All_Analysis.ipynb).
 
 ## Citation
-
+```
 @article{agrawal2023text,
   title={Do Text Simplification Systems Preserve Meaning? A Human Evaluation via Reading Comprehension},
   author={Agrawal, Sweta and Carpuat, Marine},
   journal={arXiv preprint arXiv:2312.10126},
   year={2023}
 }
+```
